@@ -7,4 +7,4 @@
 	url = https://github.com/lmiratrix/elec
 [submodule "simITS"]
 	path = simITS
-	url = https://github.com/cran/simITS
+	url = https://github.com/lmiratrix/simits
